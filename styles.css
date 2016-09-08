@@ -1,0 +1,19 @@
+h1{color:#fff;
+   margin-top:0;}
+p{color:#fff;
+  padding-bottom:5%;}
+.gallery img{width:9%;
+			 }
+
+.gallery{padding-left:2%;
+		 width:100%;}
+
+.container{width:100%;
+			background-color:#000;
+			margin-bottom:1%;}
+
+.bigimg img{width:100%;}
+
+.bigimg{width:50%;
+
+		margin:0 auto;}
